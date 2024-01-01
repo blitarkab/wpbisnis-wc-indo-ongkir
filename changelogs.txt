@@ -1,0 +1,39 @@
+1.3.3.3 - 22 Maret 2019
+
+updated : data ongkir untuk kurir ekspedisi JNE
+updated : jika hasil search autocomplete kecamatan sedikit, search juga berdasarkan nama kota/kabupaten, karena ada saja user yang search pakai nama kota/kabupaten
+updated : IndoCheckout - tambahkan catatan cara sembunyikan Shipping Fields di halaman Checkout
+
+1.3.3.2 - 27 Februari 2019
+
+fixed    : activate / deactivate license tidak berjalan di update WooCommerce terbaru
+
+1.3.3.1 - 10 Januari 2019
+
+improved : transient cache
+
+1.3.3 - 19 Desember 2018 
+
+updated : data ongkir untuk semua kurir ekspedisi
+updated : transient cache diperpendek umurnya 1 hari (lebih lebih real time)
+added   : kurir Ninja Xpress 
+added   : kurir Lion Parcel
+
+1.3.2.1 - 7 November 2018
+
+fixed   : WC 3.5 trigger country change saat load halaman checkout
+
+1.3.2 - 25 Oktober 2018
+
+updated : improve cara handle autocomplete kecamatan dan opsi yang lama
+
+1.3.1 - 3 Oktober 2018 
+
+added   : opsi baru untuk no shipping message 
+updated : metode akses ongkir jadi empat macam, ada versi http & https, supaya bisa menyesuaikan kondisi hosting 
+
+1.3.0 - 26 September 2018
+
+added   : opsi baru untuk autocomplete kecamatan saja, tidak perlu pilih provinsi dan kota/kabupaten
+updated : ganti select2 jadi selectWoo
+fixed   : indocheckout textarea nggak jalan

@@ -1,0 +1,888 @@
+# Copyright (C) 2019 Agus Muhammad (WPBisnis)
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBisnis - WooCommerce Indo Ongkir 1.3.3.3\n"
+"Report-Msgid-Bugs-To: http://www.wpbisnis.com\n"
+"POT-Creation-Date: 2019-03-22 11:08:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Agus Muhammad <agus@wpbisnis.com>\n"
+"Language-Team: Agus Muhammad <agus@wpbisnis.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:358
+msgid "Alamat Lengkap"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:360
+msgid "Nama jalan dan nomor rumah"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:365
+msgid "tambahan detail alamat (opsional)"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:368
+msgid "Negara"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:372
+#: wpbisnis-wc-indo-ongkir.php:1252 wpbisnis-wc-indo-ongkir.php:1286
+msgid "Provinsi"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:373
+#: wpbisnis-wc-indo-ongkir.php:1253 wpbisnis-wc-indo-ongkir.php:1287
+msgid "Pilih Provinsi..."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:376
+#: includes/class-wpbisnis-wc-indo-checkout.php:384
+#: wpbisnis-wc-indo-ongkir.php:1325 wpbisnis-wc-indo-ongkir.php:1356
+#: wpbisnis-wc-indo-ongkir.php:1393
+msgid "Kecamatan"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:377
+#: includes/class-wpbisnis-wc-indo-checkout.php:385
+#: wpbisnis-wc-indo-ongkir.php:1154 wpbisnis-wc-indo-ongkir.php:1326
+#: wpbisnis-wc-indo-ongkir.php:1357 wpbisnis-wc-indo-ongkir.php:1394
+msgid "Pilih Kecamatan..."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:380
+#: wpbisnis-wc-indo-ongkir.php:1315 wpbisnis-wc-indo-ongkir.php:1346
+#: wpbisnis-wc-indo-ongkir.php:1383
+msgid "Kota / Kabupaten"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:381
+#: wpbisnis-wc-indo-ongkir.php:1153 wpbisnis-wc-indo-ongkir.php:1316
+#: wpbisnis-wc-indo-ongkir.php:1347 wpbisnis-wc-indo-ongkir.php:1384
+msgid "Pilih Kota / Kabupaten..."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:388
+msgid "Kode Pos"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:395
+#: includes/class-wpbisnis-wc-indo-checkout.php:422
+msgid "Nama Depan"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:399
+#: includes/class-wpbisnis-wc-indo-checkout.php:426
+msgid "Nama Belakang"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:403
+#: includes/class-wpbisnis-wc-indo-checkout.php:430
+msgid "Nama Perusahaan"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:411
+msgid "No HP / Whatsapp"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:415
+msgid "Email"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:441
+msgid "Catatan Tambahan"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:442
+msgid "Catatan dari Anda untuk order ini."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:544
+#: includes/class-wpbisnis-wc-indo-checkout.php:618
+msgid "Indo Checkout"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:620
+msgid ""
+"Berikut ini beberapa settings yang dapat Anda gunakan untuk mengatur "
+"tampilan halaman Checkout."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:624
+#: wpbisnis-wc-indo-ongkir.php:334
+msgid "Status"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:625
+msgid "Aktifkan modul Indo Checkout"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:625
+msgid ""
+"Silahkan non aktifkan modul Indo Checkout jika Anda ingin menggunakan "
+"plugin lain untuk custom checkout fields di WooCommerce."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:658
+msgid "Address Fields"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:668
+msgid "Billing Fields"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:678
+msgid "Shipping Fields"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:680
+msgid ""
+"Jika ingin menyembunyikan bagian Shipping Fields saat Checkout, silahkan ke "
+"menu %s, di opsi Shipping destination pilih \"Force shipping to the "
+"customer billing address\"."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:689
+msgid "Additional Fields"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:1021
+msgid "ID"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:1022
+msgid "Show"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:1023
+msgid "Required"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:1024
+msgid "Label"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:1025
+msgid "Placeholder"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-checkout.php:1026
+msgid "Type"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-base.php:57
+msgid "Judul"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-base.php:66
+msgid "Toleransi Berat (gram)"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-base.php:68
+msgid ""
+"Beberapa ekspedisi pengiriman, seperti JNE dan TIKI misalnya, mempunyai "
+"toleransi berat, misalnya berat 1200 gram masih dihitung 1 kg. Hal ini bisa "
+"berubah sewaktu-waktu. Supaya aman, kami tidak menerapkan toleransi berat "
+"secara umum, silahkan gunakan fitur itu untuk mengatur toleransi berat yang "
+"diinginkan, antara 1000 gram hingga 1999 gram."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-base.php:80
+#: includes/class-wpbisnis-wc-indo-ongkir-base.php:133
+msgid "Kurir"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-base.php:132
+msgid "Aktif"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-base.php:134
+msgid "Nama"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-base.php:135
+msgid "Markup (%s)"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-cahaya.php:9
+msgid "Indo Ongkir - CAHAYA"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-cahaya.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari Cahaya Logistik "
+"(CAHAYA)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-dse.php:9
+msgid "Indo Ongkir - DSE"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-dse.php:13
+msgid "Modul Indo Ongkir yang menghitung ongkir otomatis dari 21 Express (DSE)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-first.php:9
+msgid "Indo Ongkir - FIRST"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-first.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari First Logistics "
+"(FIRST)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-indah.php:9
+msgid "Indo Ongkir - INDAH"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-indah.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari Indah Logistic "
+"(INDAH)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-jet.php:9
+msgid "Indo Ongkir - JET"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-jet.php:13
+msgid "Modul Indo Ongkir yang menghitung ongkir otomatis dari JET Express (JET)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-jne.php:9
+msgid "Indo Ongkir - JNE"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-jne.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari Jalur Nugraha "
+"Ekakurir (JNE)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-jnt.php:9
+msgid "Indo Ongkir - J&T"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-jnt.php:13
+msgid "Modul Indo Ongkir yang menghitung ongkir otomatis dari J&T Express (J&T)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-lion.php:9
+msgid "Indo Ongkir - LION"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-lion.php:13
+msgid "Modul Indo Ongkir yang menghitung ongkir otomatis dari Lion Parcel (LION)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-ncs.php:9
+msgid "Indo Ongkir - NCS"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-ncs.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari Nusantara Card "
+"Semesta (NCS)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-ninja.php:9
+msgid "Indo Ongkir - NINJA"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-ninja.php:13
+msgid "Modul Indo Ongkir yang menghitung ongkir otomatis dari Ninja Xpress (NINJA)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-nss.php:9
+msgid "Indo Ongkir - NSS"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-nss.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari Nusantara Surya "
+"Sakti Express (NSS)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-pahala.php:9
+msgid "Indo Ongkir - PAHALA"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-pahala.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari Pahala Kencana "
+"Express (PAHALA)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-pandu.php:9
+msgid "Indo Ongkir - PANDU"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-pandu.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari Pandu Logistics "
+"(PANDU)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-pos.php:9
+msgid "Indo Ongkir - POS"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-pos.php:13
+msgid "Modul Indo Ongkir yang menghitung ongkir otomatis dari POS Indonesia (POS)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-rpx.php:9
+msgid "Indo Ongkir - RPX"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-rpx.php:13
+msgid "Modul Indo Ongkir yang menghitung ongkir otomatis dari RPX Holding (RPX)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-sap.php:9
+msgid "Indo Ongkir - SAP"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-sap.php:13
+msgid "Modul Indo Ongkir yang menghitung ongkir otomatis dari SAP Express (SAP)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-sicepat.php:9
+msgid "Indo Ongkir - SICEPAT"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-sicepat.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari SiCepat Express "
+"(SICEPAT)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-tiki.php:9
+msgid "Indo Ongkir - TIKI"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-tiki.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari Citra Van Titipan "
+"Kilat (TIKI)."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-updater.php:201
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-updater.php:209
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-updater.php:396
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-updater.php:396
+msgid "Error"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-wahana.php:9
+msgid "Indo Ongkir - WAHANA"
+msgstr ""
+
+#: includes/class-wpbisnis-wc-indo-ongkir-wahana.php:13
+msgid ""
+"Modul Indo Ongkir yang menghitung ongkir otomatis dari Wahana Prestasi "
+"Logistik (WAHANA)."
+msgstr ""
+
+#: templates/email/indo-ongkir-resi.php:7
+#: templates/myaccount/indo-ongkir-resi.php:8
+msgid "Resi Pengiriman"
+msgstr ""
+
+#: templates/email/indo-ongkir-resi.php:13
+#: templates/email/indo-ongkir-resi.php:23
+#: templates/myaccount/indo-ongkir-resi.php:13
+#: templates/myaccount/indo-ongkir-resi.php:22
+msgid "Pengiriman"
+msgstr ""
+
+#: templates/email/indo-ongkir-resi.php:14
+#: templates/email/indo-ongkir-resi.php:29
+#: templates/myaccount/indo-ongkir-resi.php:14
+#: templates/myaccount/indo-ongkir-resi.php:28
+msgid "Nomor Resi"
+msgstr ""
+
+#: templates/email/indo-ongkir-resi.php:15
+#: templates/email/indo-ongkir-resi.php:32
+#: templates/myaccount/indo-ongkir-resi.php:15
+#: templates/myaccount/indo-ongkir-resi.php:31
+msgid "Tanggal"
+msgstr ""
+
+#: templates/email/indo-ongkir-resi.php:37
+#: templates/myaccount/indo-ongkir-resi.php:36
+msgid "Cek Status"
+msgstr ""
+
+#: templates/email/plain/indo-ongkir-resi.php:8
+msgid "RESI PENGIRIMAN"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:159
+msgid "Settings"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:160
+msgid "Support"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:222
+msgid ""
+"WooCommerce Indo Ongkir membutuhkan WooCommerce versi 3.0 ke atas untuk "
+"dapat digunakan."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:226
+msgid ""
+"WooCommerce Shipping TIDAK aktif. Modul Indo Ongkir otomatis "
+"di-nonaktif-kan."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:230
+msgid ""
+"WooCommerce Indo Ongkir membutuhkan negara asal Indonesia (ID) untuk dapat "
+"digunakan."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:233
+msgid ""
+"WooCommerce Indo Ongkir membutuhkan mata uang Rupiah (IDR) untuk dapat "
+"digunakan."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:239
+msgid ""
+"WooCommerce Indo Ongkir membutuhkan plugin WooCommerce untuk dapat "
+"digunakan."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:243 wpbisnis-wc-indo-ongkir.php:328
+msgid "Indo Ongkir"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:267
+msgid "Cache data ongkir berhasil dihapus..."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:279
+msgid "Go To Shipping Zones"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:281
+msgid "Selamat Datang di WPBisnis WooCommerce Indo Ongkir."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:281
+msgid ""
+"Setelah IndoOngkir aktif, silahkan ke halaman Shipping - Shipping Zones "
+"untuk mengatur modul pengiriman ke masing-masing daerah yang diinginkan."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:288
+msgid "Lihat Video Tutorial"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:290
+msgid "Bingung atau belum pernah menggunakan WooCommerce Shipping Zones?"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:290
+msgid ""
+"Silahkan lihat video tutorial WooCommerce Indo Ongkir yang sudah sangat "
+"komplit."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:297
+msgid "Laporkan Data Ongkir"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:299
+msgid "PENTING! Tidak ada jaminan data ongkir 100% lengkap dan akurat."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:299
+msgid ""
+"Silahkan laporkan ke kami jika Anda menemukan data ongkir yang tidak "
+"tersedia atau tidak akurat disertai screenshot ongkir dari web ekspedisi."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:307
+msgid ""
+"Anda sedang menggunakan <strong>Multi Origin - Product Mode</strong> yang "
+"artinya <strong>masing-masing produk akan punya perhitungan ongkir yang "
+"terpisah</strong> di halaman checkout. Model ini cocok untuk pemain "
+"dropshipper yang masing-masing produk berasal dari supplier yang berbeda."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:310
+msgid ""
+"Anda sedang menggunakan <strong>Multi Origin - City Mode</strong> yang "
+"artinya <strong>produk-produk dengan kota pengiriman yang berbeda</strong> "
+"akan dipisahkan di perhitungan ongkir di halaman checkout. Model ini cocok "
+"untuk pemilik toko online, baik yang baru memiliki satu gudang ataupun "
+"beberapa gudang di kota yang berbeda."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:319
+msgid ""
+"Perhitungan <strong>berat volumetrik tidak aktif</strong>. Perhitungan "
+"ongkir hanya dilakukan berdasarkan berat produk saja, tanpa memperhitungkan "
+"berat volumetrik yang dihitung dari ukuran panjang,lebar,tinggi produk "
+"tersebut."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:322
+msgid ""
+"Perhitungan <strong>berat volumetrik aktif</strong>. Berat volumetrik "
+"dihitung untuk produk yang memiliki ukuran panjang,lebar,tinggi. Jika berat "
+"volumetrik lebih besar daripada berat produk tersebut, maka berat "
+"volumetrik yang akan digunakan untuk perhitungan ongkir, bukan menggunakan "
+"berat produk!"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:335
+msgid "Aktifkan modul Indo Ongkir"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:335
+msgid ""
+"Silahkan non aktifkan modul Indo Ongkir jika Anda ingin menggunakan plugin "
+"lain untuk ongkir di WooCommerce."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:351
+msgid "Metode Akses Data Ongkir"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:353
+msgid ""
+"Kami menyediakan 4 macam metode untuk mengakses data ongkir di server "
+"ongkir WPBisnis."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:355
+msgid ""
+"Silahkan pilih metode yang di-support penuh oleh server hosting Anda dan "
+"mana yang dirasa lebih cepat."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:371 wpbisnis-wc-indo-ongkir.php:1704
+msgid "Kota Asal Pengiriman"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:373
+msgid ""
+"Penting untuk diingat, tidak semua kota mempunyai data ongkir untuk semua "
+"ekspedisi pengiriman."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:379
+msgid "Pilih Kota Asal Pengiriman..."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:383
+msgid "Mode Multi Origin"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:385
+msgid ""
+"Kami menyediakan beberapa macam mode multi origin yang dapat disesuaikan "
+"dengan kebutuhan."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:387
+msgid ""
+"cocok untuk supplier, ongkir dihitung untuk setiap kota asal pengiriman "
+"yang berbeda."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:389
+msgid "cocok untuk dropshipper, ongkir dihitung untuk setiap produk yang berbeda."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:391
+msgid "cocok untuk toko online tipe marketplace, saat ini belum tersedia."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:405
+msgid "Mode Input Alamat"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:407
+msgid ""
+"Kami menyediakan dua macam mode input alamat yang dapat disesuaikan dengan "
+"kebutuhan."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:409
+msgid "visitor harus pilih Provinsi / Kabupaten / Kecamatan secara berurutan"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:411
+msgid "visitor tinggal ketik nama kecamatan saja dengan fitur autocomplete."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:425
+msgid "Hitung Berat Volumetrik"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:426
+msgid "Aktifkan hitung berat volumetrik"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:426
+msgid ""
+"Fitur ini bermanfaat untuk Anda yang berjualan produk dengan ukuran "
+"tertentu (panjang,lebar,tinggi) sehingga memungkinkan berat volumetrik "
+"(berat yang dihitung dari ukuran produk) lebih besar dibanding berat produk "
+"itu sendiri."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:433
+msgid "Pembagi Berat Volumetrik"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:435
+msgid ""
+"Jika produk mempunyai ukuran panjang,lebar,tinggi, maka berat volumetrik "
+"dihitung dengan rumus sebagai berikut:"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:438
+msgid "berat volumetrik = panjang x lebar x tinggi / 5000 x 1kg"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:441
+msgid ""
+"Faktor pembagi 5000 adalah standard tengah, anda bisa merubahnya ke 4000 "
+"atau 6000 sesuai kebijakan dari ekspedisi."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:443
+msgid ""
+"Jika berat volumetrik lebih besar daripada berat produk, maka berat "
+"volumetrik yang akan digunakan untuk perhitungan ongkir."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:450
+msgid "Detail Shipping di Checkout/Order"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:451
+msgid "Tampilkan kota asal pengiriman"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:460
+msgid "Tampilkan berat produk / dimensi produk (berat volumetrik)"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:468
+msgid "No Shipping Message"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:472 wpbisnis-wc-indo-ongkir.php:1766
+msgid ""
+"Biaya ongkos kirim belum/tidak ditemukan. Apakah alamat yang dimasukkan "
+"sudah lengkap? Jika sudah, silahkan hubungi customer service kami untuk "
+"pembelian."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:478
+msgid "No Shipping Button Text"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:482 wpbisnis-wc-indo-ongkir.php:1773
+msgid "Beli Melalui Customer Service"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:487
+msgid "No Shipping Button URL"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:496
+msgid "Link Halaman Cek Resi"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:498
+msgid "Defaut halaman cek resi:"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:501
+msgid ""
+"Silahkan ganti dengan link lain jika Anda mempunyai halaman cek resi "
+"sendiri atau halaman yang berisi petunjuk bagaimana cara cek resi untuk "
+"pembeli Anda."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:509
+msgid "JS Debug Mode"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:510
+msgid "Aktifkan mode debug di javascript console log"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:510
+msgid ""
+"Fitur ini bermanfaat untuk troubleshooting jika ada masalah di javascript. "
+"JANGAN AKTIFKAN FITUR INI, kecuali jika Anda paham dengan browser console "
+"log atau diminta oleh tim support WC IndoOngkir."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:539
+msgid "Lisensi"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:602
+msgid ""
+"Harap masukkan kode lisensi plugin indo ongkir yang benar. %s Kode lisensi "
+"bisa ditemukan di halaman %s My Account - WPBisnis %s"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:614
+msgid "Cache Data Ongkir"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:628
+msgid ""
+"Kami menggunakan teknologi transient di WordPress untuk menyimpan data "
+"ongkir yang sudah pernah diakses."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:630
+msgid ""
+"Hal ini bertujuan untuk mempercepat loading data ongkir tanpa harus "
+"terhubung ke server WPBisnis terus menerus."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:667
+msgid "Shipping Location(s)"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:683 wpbisnis-wc-indo-ongkir.php:689
+msgid "Ship to all countries you sell to: All countries. Are you sure???"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:684 wpbisnis-wc-indo-ongkir.php:695
+#: wpbisnis-wc-indo-ongkir.php:706 wpbisnis-wc-indo-ongkir.php:715
+#: wpbisnis-wc-indo-ongkir.php:718 wpbisnis-wc-indo-ongkir.php:722
+#: wpbisnis-wc-indo-ongkir.php:726 wpbisnis-wc-indo-ongkir.php:741
+#: wpbisnis-wc-indo-ongkir.php:756 wpbisnis-wc-indo-ongkir.php:772
+#: wpbisnis-wc-indo-ongkir.php:786
+msgid "Edit"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:685 wpbisnis-wc-indo-ongkir.php:696
+#: wpbisnis-wc-indo-ongkir.php:719
+msgid ""
+"PENTING!!! Indo Ongkir efektif untuk dipakai untuk lokasi shipping di "
+"Indonesia."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:691 wpbisnis-wc-indo-ongkir.php:693
+msgid "Ship to all countries you sell to: All countries except %s. Are you sure???"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:700
+msgid "Ship to all countries you sell to: NO countries detected. Are you sure???"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:702
+msgid "Ship to all countries you sell to: %s. Are you sure???"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:704
+msgid "Ship to all countries you sell to: %s"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:711
+msgid "Ship to specific countries: %s"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:713
+msgid "Ship to specific countries, but NO countries detected!"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:717
+msgid "Ship to all countries. Are you sure???"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:721 wpbisnis-wc-indo-ongkir.php:725
+msgid "Shipping is disabled!"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:732
+msgid "Negara Asal (Base Country)"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:746
+msgid "Mata Uang (Currency)"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:761
+msgid "Satuan Berat (Weight Unit)"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:777
+msgid "Satuan Ukuran (Dimension Unit)"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:1120
+msgid "Tulis Nama Kecamatan Anda..."
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:1706
+msgid "Setting default untuk kota asal pengiriman domestik"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:1782
+msgid "Indo Ongkir - Resi Pengiriman"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:1813
+msgid "Nomor Resi Pengiriman:"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:1821
+msgid "Tanggal Pengiriman:"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:1822 wpbisnis-wc-indo-ongkir.php:1862
+msgid "Y-m-d"
+msgstr ""
+
+#: wpbisnis-wc-indo-ongkir.php:1829
+msgid "Save"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WPBisnis - WooCommerce Indo Ongkir"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.wpbisnis.com/item/woocommerce-indo-ongkir"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Agus Muhammad (WPBisnis)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wpbisnis.com"
+msgstr ""
